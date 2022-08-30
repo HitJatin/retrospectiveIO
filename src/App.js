@@ -13,7 +13,7 @@ import mainLogo from "./Reflexion.png";
 import sakhiLogo from "./sakhi_logo_tr.png";
 import FileDownloadIcon from "@mui/icons-material/FileDownload";
 
-const URL = "ws://localhost:8080";
+const URL = "wss://notes-app-websocket.herokuapp.com/";
 const style = {
   position: "absolute",
   top: "50%",
