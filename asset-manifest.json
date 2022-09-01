@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/retrospectiveIO/static/css/main.80d13868.css",
-    "main.js": "/retrospectiveIO/static/js/main.111219a7.js",
+    "main.js": "/retrospectiveIO/static/js/main.56897556.js",
     "static/js/787.64d2612f.chunk.js": "/retrospectiveIO/static/js/787.64d2612f.chunk.js",
     "static/media/mainPage.png": "/retrospectiveIO/static/media/mainPage.a53c11b87b638cdd770a.png",
     "static/media/sakhi_logo_tr.png": "/retrospectiveIO/static/media/sakhi_logo_tr.90f4e77619067524dc6b.png",
     "index.html": "/retrospectiveIO/index.html",
     "main.80d13868.css.map": "/retrospectiveIO/static/css/main.80d13868.css.map",
-    "main.111219a7.js.map": "/retrospectiveIO/static/js/main.111219a7.js.map",
+    "main.56897556.js.map": "/retrospectiveIO/static/js/main.56897556.js.map",
     "787.64d2612f.chunk.js.map": "/retrospectiveIO/static/js/787.64d2612f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80d13868.css",
-    "static/js/main.111219a7.js"
+    "static/js/main.56897556.js"
   ]
 }
